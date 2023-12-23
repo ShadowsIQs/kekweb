@@ -5,3 +5,10 @@ body {
   #hobbies{
     text-align: left;
   }
+  
+#button{
+    padding: 0px;
+    background-color: rgb(14, 172, 172);
+    width: 250px;
+   margin: auto;
+  }
